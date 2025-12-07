@@ -11,7 +11,7 @@ def multiply(a, b):
 
 
 if __name__ == "__main__":
-    print("Simple Calculator - Choose an operation (add, subtract, multiply)")
+    print("Simple Calculator - Version A")
     print("1. Add")
     print("2. Subtract")
     print("3. Multiply")
